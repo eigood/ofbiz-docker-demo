@@ -1,0 +1,12 @@
+[submodule "apache-ofbiz"]
+	path = apache-ofbiz
+	url = https://github.com/apache/ofbiz.git
+[submodule "ofbiz-wordpress"]
+	path = ofbiz-wordpress
+	url = git@github.com:eigood/ofbiz-wordpress.git
+[submodule "ofbiz-wordpress-backend"]
+	path = ofbiz-wordpress-backend
+	url = git@github.com:eigood/ofbiz-wordpress-backend.git
+[submodule "ofbiz-wordpress-frontend"]
+	path = ofbiz-wordpress-frontend
+	url = git@github.com:eigood/ofbiz-wordpress-frontend.git
