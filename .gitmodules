@@ -10,3 +10,6 @@
 [submodule "ofbiz-wordpress-frontend"]
 	path = ofbiz-wordpress-frontend
 	url = git@github.com:eigood/ofbiz-wordpress-frontend.git
+[submodule "ofbiz-docker-container"]
+	path = ofbiz-docker-container
+	url = git@github.com:eigood/ofbiz-docker-container.git
